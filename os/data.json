@@ -1,0 +1,11 @@
+{
+    "id": 1,
+    "title": "8코기네집",
+    "autuor": "왕아빠",
+    "links": [
+        {
+            "rel": "self",
+            "href": "/books/1"
+        }
+    ]
+}
